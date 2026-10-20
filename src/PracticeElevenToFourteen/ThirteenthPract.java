@@ -1,7 +1,5 @@
 package PracticeElevenToFourteen;
 
-
-
 import java.util.*; //Сокращенный импорт всего нужного 
 
 class Person {

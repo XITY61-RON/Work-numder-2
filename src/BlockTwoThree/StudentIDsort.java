@@ -133,7 +133,7 @@ public static void main(String[] args){
             System.out.println("Как вы хотите провести сортировку?");
             System.out.println("По ID - сортировка вставкой - Введите 1");
             System.out.println("ПО оценке - быстрая сортировка - Введите 2");
-            System.out.println("ПО оценке - сортировка слиянием - Введите 3");
+            System.out.println("Cортировка слиянием - Введите 3");
             System.out.println("Выход - Введите 4");
             String enter = scanner.nextLine();
             switch (enter) {
